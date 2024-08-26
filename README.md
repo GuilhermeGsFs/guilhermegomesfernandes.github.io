@@ -1,11 +1,12 @@
-Site Pessoal de Guilherme
+Site Pessoal de Guilherme.
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site Pessoal de Guilherme</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link para o arquivo CSS -->
+    <title>Site Pessoal de Guilherme.</title>
+    <link rel="stylesheet" href="styles.css"> 
 </head>
 <body>
     <header>
@@ -22,7 +23,9 @@ Site Pessoal de Guilherme
     <main>
         <section id="sobre" class="content">
             <h2>Sobre mim</h2>
-            <p>Aqui você pode escrever sobre você, seus hobbies e interesses.</p>
+            <p>Meu nome é Guilherme Gomes Fernandes, comecei meus estudos no Centro Universitário Internacional, Uninter em 2024. Alguns dos meus hobbies incluem escrever os mais diversos tipos de temas, incluindo aqueles fictícios como fantasia.
+                Amo fazer caminhadas longas para se exercitar e aproveitar um bom momento ao ar livre. Tenho muito interesse em aprender mais sobre tecnologia e afins, com o objetivo de obter a melhor carreira possível com minhas habilidades.
+            </p>
         </section>
         <section id="formacao" class="content" style="display:none;">
             <h2>Formação Educacional</h2>
